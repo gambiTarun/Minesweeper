@@ -1,7 +1,3 @@
-// Name: Tarunbir Singh Gambhir
-// USC NetID: 6349456834
-// CS 455 PA3
-// Fall 2021
 
 import java.util.Random;
 
