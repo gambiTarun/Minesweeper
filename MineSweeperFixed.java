@@ -1,13 +1,4 @@
 
-/**
-   MineSweeperFixed -- main class for a GUI minesweeper game.
-   Uses a hard-coded mine field for testing purposes.  For more details about this
-   game and how to play it, see the assignment description.
-   
-   To run it from the command line: 
-      java MineSweeperFixed
- */
-
 import javax.swing.JFrame;
 
 public class MineSweeperFixed {
